@@ -119,7 +119,7 @@ export default function BookingFlow() {
                     className="relative block"
                 >
                     {/* Label Badge */}
-                    <div className="absolute -top-3 left-0 bg-slate-900 text-[10px] text-white tracking-widest font-bold px-3 py-1 uppercase border-t border-x border-white/10 group-hover:bg-primary group-hover:text-primary-foreground transition-colors z-0">
+                    <div className="absolute -top-5 left-0 bg-slate-900 text-[10px] text-white tracking-widest font-bold px-3 py-1 uppercase border-t border-x border-white/10 group-hover:bg-primary group-hover:text-primary-foreground transition-colors z-0">
                         Projeto Demonstrativo
                     </div>
 
