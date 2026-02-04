@@ -119,12 +119,12 @@ export default function BookingFlow() {
                     className="relative block"
                 >
                     {/* Label Badge */}
-                    <div className="absolute -top-3 left-0 bg-slate-900 text-[10px] text-white tracking-widest font-bold px-3 py-1 uppercase rounded-t-lg border-t border-x border-white/10 group-hover:bg-primary group-hover:text-primary-foreground transition-colors z-0">
+                    <div className="absolute -top-3 left-0 bg-slate-900 text-[10px] text-white tracking-widest font-bold px-3 py-1 uppercase border-t border-x border-white/10 group-hover:bg-primary group-hover:text-primary-foreground transition-colors z-0">
                         Projeto Demonstrativo
                     </div>
 
                     {/* Main Button */}
-                    <div className="bg-primary hover:bg-white text-primary-foreground hover:text-primary transition-all duration-300 h-14 pl-5 pr-4 flex items-center gap-4 shadow-[0_0_30px_-5px_rgba(245,158,11,0.4)] hover:shadow-[0_0_40px_-5px_rgba(255,255,255,0.6)] cursor-pointer rounded-b-lg rounded-tr-lg z-10 relative">
+                    <div className="bg-primary hover:bg-white text-primary-foreground hover:text-primary transition-all duration-300 h-14 pl-5 pr-4 flex items-center gap-4 shadow-[0_0_30px_-5px_rgba(245,158,11,0.4)] hover:shadow-[0_0_40px_-5px_rgba(255,255,255,0.6)] cursor-pointer z-10 relative">
                         <div className="text-left leading-tight">
                             <span className="block text-[10px] font-bold opacity-80 uppercase tracking-widest">Voltar ao</span>
                             <span className="block text-lg font-black tracking-tight">PORTFÓLIO</span>
